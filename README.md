@@ -7,7 +7,8 @@ Once you find a **`Meme`** worthy enough you can either share it or like 👍 th
 Check if backend service is up here:
 https://lambda-be.azurewebsites.net/ping
 
-## Table of content
+## Table of Contents
+
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
